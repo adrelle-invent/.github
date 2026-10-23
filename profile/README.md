@@ -10,4 +10,4 @@ We specialize in translating complex business requirements into resilient, produ
 
 We’re continuously improving our software and expanding our SaaS ecosystem. More updates will follow as products mature.
 
-> Built for stability. Designed for scale. Engineered for reliability.
+> Engineered for reliability. Designed for scale. Built to evolve.
