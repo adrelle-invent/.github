@@ -1,6 +1,6 @@
 Software focused on reliability, scalability, and maintainability.
 
-We specialize in translating complex business requirements into resilient, production-grade systems.
+We specialize in translating complex business requirements into reliable production software.
 
 - 🚀 SaaS Platform Development
 - ⚙️ API and Webhook Integration
